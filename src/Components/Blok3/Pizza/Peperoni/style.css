@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap");
+
+#blokPizza {
+  /* background-color: brown; */
+  height: 615px;
+  width: 430px;
+  margin: 5px;
+}
+#add {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 45px 0px 45px;
+}
+#flex {
+  display: flex;
+  align-items: flex-end;
+}
+#submit {
+  width: 80px;
+  height: 40px;
+  background-color: #6c5ce7;
+  border-width: 0;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: 700;
+  color: white;
+  cursor: pointer;
+
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+
+  /* primary_white */
+
+  color: #ffffff;
+}
+#plus {
+  background-color: rgb(255, 255, 255);
+  border-width: 0;
+  border-radius: 5px;
+  color: rgb(0, 0, 0);
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* primary_violet */
+
+  color: #6c5ce7;
+}
+#ua {
+  margin-left: 5px;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 15px;
+  display: flex;
+  align-items: center;
+
+  /* primary_white_dark */
+
+  color: #b2bec3;
+}
+#price {
+  color: #6c5ce7;
+  font-size: 14px;
+}
+
+#vagaD {
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 15px;
+  /* top: 50;
+  left: 50; */
+}
+
+#type1 {
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex;
+  align-items: center;
+  color: #6c5ce7;
+}
+#d {
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex;
+  align-items: center;
+
+  /* primary_white_dark */
+
+  color: #b2bec3;
+  margin-top: 1px;
+}
+
+#PizzaName {
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 43px;
+  text-align: center;
+}
+
+#opys {
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+
+  /* primary_white_dark */
+
+  color: #b2bec3;
+  padding: 5px 45px 0px 45px;
+}
+#type2 {
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+
+  /* primary_violet */
+
+  color: #6c5ce7;
+}
+#quantity {
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #262626;
+}
+#logoPizza {
+  width: 430px;
+  height: 430px;
+}

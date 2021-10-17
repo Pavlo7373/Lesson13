@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Princess+Sofia&display=swap");
+* {
+  margin: 0;
+}
+header {
+  /* background-color: aqua; */
+  height: 80px;
+}
+#pizza {
+  height: 60px;
+}
+#header {
+  display: flex;
+  /* flex-direction: column; */
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: #6c5ce7;
+  padding: 5px 5px 5px 5px;
+}
+
+#logoPizza2 {
+  display: flex;
+  /* background-color: rgb(174, 202, 71); */
+  padding: 3px 3px 3px 3px;
+  font-family: "Princess Sofia";
+}
+#l1 {
+  /* background-color: darkgreen; */
+}
+#l2 {
+  /* background-color: rgb(128, 35, 35); */
+  color: #6c5ce7;
+}
+#textPizza {
+  padding: 20px 0px 0px 0px;
+  /* background-color: darkblue; */
+  /* margin: 20px 0px 0px 0px; */
+}
